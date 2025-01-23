@@ -20,5 +20,5 @@ Packages/
 UserSettings/
 
 # Other common Unity files
-*.csproj
-*.sln
+# Убираем игнорирование .csproj и .sln файлов
+
